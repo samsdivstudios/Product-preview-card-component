@@ -168,7 +168,7 @@ button {
 
 button[data-icon="shopping-cart"]::before {
   content: "";
-  background-image: url(icon-cart.svg);
+  background-image: url(images/icon-cart.svg);
   width: 15px;
   height: 16px;
 }
@@ -186,5 +186,6 @@ button:active {
     color: hsl(228, 45%, 44%);
 
 }
+
 
 
