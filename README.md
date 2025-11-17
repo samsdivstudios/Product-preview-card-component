@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-Creating this card helped me learn how to use picture and adding a svg icon in a button. I also learned how to start with mobile design first and why it's important to do so.
+Creating this card helped me learn how to use picture tag and adding a svg icon in a button. I also learned how to start with mobile design first and why it's important to do so.
 
 ```html
 <picture class="product_image">
